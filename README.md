@@ -32,4 +32,3 @@ If you have any questions or comments, please feel free to contact me at [my ema
 This package is provided "as is" without any warranty or guarantee of any kind. Use at your own risk.
 ## Acknowledgements
 This package was created by [my name](https://github.com/your-username).
-It is based on the Chudnovsky algorithm, which was developed by [Victor Chudnovsky](https://en.wikipedia.org/wiki/Victor_Chudnovsky) and [Sergei V. Chudnovsky](https://en.wikipedia.org/wiki/Sergei_Chudnovsky).
